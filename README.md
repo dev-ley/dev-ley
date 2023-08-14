@@ -35,13 +35,13 @@
 
 
 <div align="start">
-Olá e bem-vindo ao meu repositório no GitHub! <br>
+Olá e bem-vindo ao meu repositório no GitHub! <br><br>
 Aqui você encontrará uma variedade de projetos, códigos e ideias que estou explorando. Sinta-se à vontade para navegar pelos diferentes diretórios e explorar o que tenho compartilhado.<br>
 
-Sobre Mim <br>
+Sobre Mim <br><br>
 Eu sou apaixonado por tecnologia, programação e aprendizado contínuo. Sempre estou em busca de novos desafios e maneiras de expandir meu conhecimento. Este repositório é uma coleção dos meus projetos pessoais e trabalhos experimentais.<br>
 
-O Que Você Encontrará Aqui<br>
+O Que Você Encontrará Aqui<br><br>
 Neste repositório, você pode esperar encontrar:<br>
 
 Projetos Diversificados: Desde pequenos scripts e utilitários até projetos mais complexos, estou sempre experimentando com diferentes tecnologias e ideias.<br>
@@ -50,7 +50,7 @@ Aprendizado Contínuo: Cada projeto é uma oportunidade para aprender algo novo.
 
 Colaboração e Feedback: Sinta-se à vontade para explorar, clonar e usar o que encontrar aqui. Se você tiver sugestões, melhorias ou apenas quiser dizer "olá", fique à vontade para abrir uma issue ou enviar um pull request.<br>
 
-Como Contribuir<br>
+Como Contribuir<br><br>
 Contribuições são sempre bem-vindas! Se você gostaria de adicionar algo novo, corrigir um bug ou melhorar algo existente, siga estas etapas:<br>
 
 Fork: Faça um fork deste repositório.<br>
