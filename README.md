@@ -1,4 +1,4 @@
-### Bem-vindo ao Meu GitHub! Me Chamo Wesley Rodrigues
+### Bem-vindo ao Meu GitHub!
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-ley&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ley&layout=compact&langs_count=16&theme=great-gatsby"/>
@@ -50,18 +50,6 @@ Aprendizado Contínuo: Cada projeto é uma oportunidade para aprender algo novo.
 
 Colaboração e Feedback: Sinta-se à vontade para explorar, clonar e usar o que encontrar aqui. Se você tiver sugestões, melhorias ou apenas quiser dizer "olá", fique à vontade para abrir uma issue ou enviar um pull request.<br>
 
-Como Contribuir<br><br>
-Contribuições são sempre bem-vindas! Se você gostaria de adicionar algo novo, corrigir um bug ou melhorar algo existente, siga estas etapas:<br>
-
-Fork: Faça um fork deste repositório.<br>
-
-Clone: Clone o fork para o seu ambiente de desenvolvimento.<br>
-
-Faça Suas Alterações: Faça as alterações que você deseja, experimente e teste.<br>
-
-Commit e Push: Commit suas alterações e faça um push para o seu fork.<br>
-
-Pull Request: Abra um Pull Request originalmente para este repositório. Descreva suas alterações em detalhes e aguarde o feedback.<br>
 </div>
 Entre em Contato
 Se você tiver alguma pergunta, sugestão ou apenas quiser conversar sobre tecnologia e programação, sinta-se à vontade para me contatar. Você pode me encontrar aqui no GitHub ou em minhas redes sociais listadas em meu perfil.
