@@ -34,9 +34,9 @@
 </div>
 
 
-<div align="justify">
+<div align="start">
 Olá e bem-vindo ao meu repositório no GitHub! <br><br>
-Aqui você encontrará uma variedade de projetos, códigos e ideias que estou explorando. Sinta-se à vontade para navegar pelos diferentes diretórios e explorar o que tenho compartilhado.<br>
+Aqui você encontrará uma variedade de projetos, códigos e ideias que estou explorando. Sinta-se à vontade para navegar pelos diferentes diretórios e explorar o que tenho compartilhado.<br><br>
 
 Sobre Mim <br><br>
 Eu sou apaixonado por tecnologia, programação e aprendizado contínuo. Sempre estou em busca de novos desafios e maneiras de expandir meu conhecimento. Este repositório é uma coleção dos meus projetos pessoais e trabalhos experimentais.<br>
