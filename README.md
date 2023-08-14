@@ -35,34 +35,34 @@
 
 
 <div align="start">
-Olá e bem-vindo ao meu repositório no GitHub! Aqui você encontrará uma variedade de projetos, códigos e ideias que estou explorando. Sinta-se à vontade para navegar pelos diferentes diretórios e explorar o que tenho compartilhado.
+Olá e bem-vindo ao meu repositório no GitHub! <br>
+Aqui você encontrará uma variedade de projetos, códigos e ideias que estou explorando. Sinta-se à vontade para navegar pelos diferentes diretórios e explorar o que tenho compartilhado.<br>
 
-Sobre Mim
-Eu sou apaixonado por tecnologia, programação e aprendizado contínuo. Sempre estou em busca de novos desafios e maneiras de expandir meu conhecimento. Este repositório é uma coleção dos meus projetos pessoais e trabalhos experimentais.
+Sobre Mim <br>
+Eu sou apaixonado por tecnologia, programação e aprendizado contínuo. Sempre estou em busca de novos desafios e maneiras de expandir meu conhecimento. Este repositório é uma coleção dos meus projetos pessoais e trabalhos experimentais.<br>
 
-O Que Você Encontrará Aqui
-Neste repositório, você pode esperar encontrar:
+O Que Você Encontrará Aqui<br>
+Neste repositório, você pode esperar encontrar:<br>
 
-Projetos Diversificados: Desde pequenos scripts e utilitários até projetos mais complexos, estou sempre experimentando com diferentes tecnologias e ideias.
+Projetos Diversificados: Desde pequenos scripts e utilitários até projetos mais complexos, estou sempre experimentando com diferentes tecnologias e ideias.<br>
 
-Aprendizado Contínuo: Cada projeto é uma oportunidade para aprender algo novo. À medida que evoluo como desenvolvedor, compartilho meu progresso e novos insights aqui.
+Aprendizado Contínuo: Cada projeto é uma oportunidade para aprender algo novo. À medida que evoluo como desenvolvedor, compartilho meu progresso e novos insights aqui.<br>
 
-Colaboração e Feedback: Sinta-se à vontade para explorar, clonar e usar o que encontrar aqui. Se você tiver sugestões, melhorias ou apenas quiser dizer "olá", fique à vontade para abrir uma issue ou enviar um pull request.
+Colaboração e Feedback: Sinta-se à vontade para explorar, clonar e usar o que encontrar aqui. Se você tiver sugestões, melhorias ou apenas quiser dizer "olá", fique à vontade para abrir uma issue ou enviar um pull request.<br>
 
-Como Contribuir
-Contribuições são sempre bem-vindas! Se você gostaria de adicionar algo novo, corrigir um bug ou melhorar algo existente, siga estas etapas:
+Como Contribuir<br>
+Contribuições são sempre bem-vindas! Se você gostaria de adicionar algo novo, corrigir um bug ou melhorar algo existente, siga estas etapas:<br>
 
-Fork: Faça um fork deste repositório.
+Fork: Faça um fork deste repositório.<br>
 
-Clone: Clone o fork para o seu ambiente de desenvolvimento.
+Clone: Clone o fork para o seu ambiente de desenvolvimento.<br>
 
-Faça Suas Alterações: Faça as alterações que você deseja, experimente e teste.
+Faça Suas Alterações: Faça as alterações que você deseja, experimente e teste.<br>
 
-Commit e Push: Commit suas alterações e faça um push para o seu fork.
+Commit e Push: Commit suas alterações e faça um push para o seu fork.<br>
+
+Pull Request: Abra um Pull Request originalmente para este repositório. Descreva suas alterações em detalhes e aguarde o feedback.<br>
 </div>
-
-Pull Request: Abra um Pull Request originalmente para este repositório. Descreva suas alterações em detalhes e aguarde o feedback.
-
 Entre em Contato
 Se você tiver alguma pergunta, sugestão ou apenas quiser conversar sobre tecnologia e programação, sinta-se à vontade para me contatar. Você pode me encontrar aqui no GitHub ou em minhas redes sociais listadas em meu perfil.
 
