@@ -6,7 +6,7 @@
 
 <br>
 
-<div  align="Justify"> 
+<div  align="center"> 
   <div style="display: inline_block"><br>
     <h1 align="center">Melhores Tecnologias</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -34,7 +34,7 @@
 </div>
 
 
-<div align="start">
+<div align="justify">
 Olá e bem-vindo ao meu repositório no GitHub! <br><br>
 Aqui você encontrará uma variedade de projetos, códigos e ideias que estou explorando. Sinta-se à vontade para navegar pelos diferentes diretórios e explorar o que tenho compartilhado.<br>
 
