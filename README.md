@@ -34,6 +34,7 @@
 </div>
 
 
+<div align="start">
 Olá e bem-vindo ao meu repositório no GitHub! Aqui você encontrará uma variedade de projetos, códigos e ideias que estou explorando. Sinta-se à vontade para navegar pelos diferentes diretórios e explorar o que tenho compartilhado.
 
 Sobre Mim
@@ -58,6 +59,7 @@ Clone: Clone o fork para o seu ambiente de desenvolvimento.
 Faça Suas Alterações: Faça as alterações que você deseja, experimente e teste.
 
 Commit e Push: Commit suas alterações e faça um push para o seu fork.
+</div>
 
 Pull Request: Abra um Pull Request originalmente para este repositório. Descreva suas alterações em detalhes e aguarde o feedback.
 
