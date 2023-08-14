@@ -20,6 +20,7 @@
   <div>
     <h1 align="center">Redes Sociais</h1>
   <div> 
+    
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -30,6 +31,7 @@
 </div>
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 
 Olá e bem-vindo ao meu repositório no GitHub! Aqui você encontrará uma variedade de projetos, códigos e ideias que estou explorando. Sinta-se à vontade para navegar pelos diferentes diretórios e explorar o que tenho compartilhado.
