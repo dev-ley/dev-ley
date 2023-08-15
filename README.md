@@ -30,8 +30,7 @@
   
 </div>
 
-![Snake animation](https://github.com/dev-ley/dev-ley/blob/output/github-contribution-grid-snake.svg)</div>
-
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
 <div align="start">
 Olá e bem-vindo ao meu repositório no GitHub! <br><br>
